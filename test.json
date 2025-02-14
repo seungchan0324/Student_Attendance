@@ -1,0 +1,1804 @@
+{
+  "returnJSON": {
+    "atab_cnt": 22,
+    "atabList": [
+      {
+        "trneeCstmrId": 100056652922,
+        "cstmrNm": "강승리",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0930",
+        "levromTime": "1823",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056652922,
+        "cstmrNm": "강승리",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0935",
+        "levromTime": "1821",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056652922,
+        "cstmrNm": "강승리",
+        "korDayNm": "목",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056652922,
+        "cstmrNm": "강승리",
+        "korDayNm": "금",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0935",
+        "levromTime": "1821",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056652922,
+        "cstmrNm": "강승리",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0932",
+        "levromTime": "1821",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056652922,
+        "cstmrNm": "강승리",
+        "korDayNm": "화",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "1314",
+        "levromTime": "1821",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056652922,
+        "cstmrNm": "강승리",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0934",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056652922,
+        "cstmrNm": "강승리",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0934",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100052083251,
+        "cstmrNm": "김세찬",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100052083251,
+        "cstmrNm": "김세찬",
+        "korDayNm": "화",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "1314",
+        "levromTime": "1820",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100052083251,
+        "cstmrNm": "김세찬",
+        "korDayNm": "월",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100052083251,
+        "cstmrNm": "김세찬",
+        "korDayNm": "금",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "0958",
+        "levromTime": "1820",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100052083251,
+        "cstmrNm": "김세찬",
+        "korDayNm": "목",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0933",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100052083251,
+        "cstmrNm": "김세찬",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0937",
+        "levromTime": "1820",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100052083251,
+        "cstmrNm": "김세찬",
+        "korDayNm": "월",
+        "atendSttusNm": "질병/입원",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100052083251,
+        "cstmrNm": "김세찬",
+        "korDayNm": "월",
+        "atendSttusNm": "질병/입원",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100052083251,
+        "cstmrNm": "김세찬",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0935",
+        "levromTime": "1821",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056744427,
+        "cstmrNm": "김용래",
+        "korDayNm": "화",
+        "atendSttusNm": "휴가",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056744427,
+        "cstmrNm": "김용래",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0933",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056744427,
+        "cstmrNm": "김용래",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0932",
+        "levromTime": "1820",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056744427,
+        "cstmrNm": "김용래",
+        "korDayNm": "금",
+        "atendSttusCd": "10",
+        "atendSttusNm": "100분의50미만출석",
+        "lpsilTime": "1336",
+        "levromTime": "1336",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056744427,
+        "cstmrNm": "김용래",
+        "korDayNm": "목",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "1337",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056744427,
+        "cstmrNm": "김용래",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0938",
+        "levromTime": "1820",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056744427,
+        "cstmrNm": "김용래",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0937",
+        "levromTime": "1820",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056744427,
+        "cstmrNm": "김용래",
+        "korDayNm": "월",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "1238",
+        "levromTime": "1821",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056744427,
+        "cstmrNm": "김용래",
+        "korDayNm": "월",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "1238",
+        "levromTime": "1821",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100053291063,
+        "cstmrNm": "김현규",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0939",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100053291063,
+        "cstmrNm": "김현규",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0937",
+        "levromTime": "1821",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100053291063,
+        "cstmrNm": "김현규",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0935",
+        "levromTime": "1820",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100053291063,
+        "cstmrNm": "김현규",
+        "korDayNm": "목",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0921",
+        "levromTime": "1324",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100053291063,
+        "cstmrNm": "김현규",
+        "korDayNm": "금",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100053291063,
+        "cstmrNm": "김현규",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0937",
+        "levromTime": "1820",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100053291063,
+        "cstmrNm": "김현규",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0929",
+        "levromTime": "1820",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100053291063,
+        "cstmrNm": "김현규",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056595418,
+        "cstmrNm": "김현호",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0918",
+        "levromTime": "1821",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056595418,
+        "cstmrNm": "김현호",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0927",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056595418,
+        "cstmrNm": "김현호",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0924",
+        "levromTime": "1820",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056595418,
+        "cstmrNm": "김현호",
+        "korDayNm": "목",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0914",
+        "levromTime": "1322",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056595418,
+        "cstmrNm": "김현호",
+        "korDayNm": "금",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0925",
+        "levromTime": "1820",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056595418,
+        "cstmrNm": "김현호",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0932",
+        "levromTime": "1821",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056595418,
+        "cstmrNm": "김현호",
+        "korDayNm": "화",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0924",
+        "levromTime": "1325",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056595418,
+        "cstmrNm": "김현호",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0931",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056608045,
+        "cstmrNm": "김형준",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0922",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056608045,
+        "cstmrNm": "김형준",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0922",
+        "levromTime": "1821",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056608045,
+        "cstmrNm": "김형준",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0927",
+        "levromTime": "1821",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056608045,
+        "cstmrNm": "김형준",
+        "korDayNm": "목",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0921",
+        "levromTime": "1324",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056608045,
+        "cstmrNm": "김형준",
+        "korDayNm": "금",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056608045,
+        "cstmrNm": "김형준",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0922",
+        "levromTime": "1820",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056608045,
+        "cstmrNm": "김형준",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0920",
+        "levromTime": "1820",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056608045,
+        "cstmrNm": "김형준",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056630582,
+        "cstmrNm": "노환일",
+        "korDayNm": "화",
+        "atendSttusNm": "휴가",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056630582,
+        "cstmrNm": "노환일",
+        "korDayNm": "월",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056630582,
+        "cstmrNm": "노환일",
+        "korDayNm": "월",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056630582,
+        "cstmrNm": "노환일",
+        "korDayNm": "금",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "1414",
+        "levromTime": "1820",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056630582,
+        "cstmrNm": "노환일",
+        "korDayNm": "목",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056630582,
+        "cstmrNm": "노환일",
+        "korDayNm": "수",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "1425",
+        "levromTime": "1820",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056630582,
+        "cstmrNm": "노환일",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0930",
+        "levromTime": "1821",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056630582,
+        "cstmrNm": "노환일",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0931",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056630582,
+        "cstmrNm": "노환일",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100053706551,
+        "cstmrNm": "맹현지",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0903",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100053706551,
+        "cstmrNm": "맹현지",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0910",
+        "levromTime": "1821",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100053706551,
+        "cstmrNm": "맹현지",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0856",
+        "levromTime": "1821",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100053706551,
+        "cstmrNm": "맹현지",
+        "korDayNm": "금",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0906",
+        "levromTime": "1820",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100053706551,
+        "cstmrNm": "맹현지",
+        "korDayNm": "목",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0918",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100053706551,
+        "cstmrNm": "맹현지",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0907",
+        "levromTime": "1820",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100053706551,
+        "cstmrNm": "맹현지",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0903",
+        "levromTime": "1821",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100053706551,
+        "cstmrNm": "맹현지",
+        "korDayNm": "화",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0907",
+        "levromTime": "1403",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056788754,
+        "cstmrNm": "백승준",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0921",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056788754,
+        "cstmrNm": "백승준",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0922",
+        "levromTime": "1823",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056788754,
+        "cstmrNm": "백승준",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0923",
+        "levromTime": "1821",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056788754,
+        "cstmrNm": "백승준",
+        "korDayNm": "목",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0926",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056788754,
+        "cstmrNm": "백승준",
+        "korDayNm": "금",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0932",
+        "levromTime": "1821",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056788754,
+        "cstmrNm": "백승준",
+        "korDayNm": "월",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056788754,
+        "cstmrNm": "백승준",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0926",
+        "levromTime": "1821",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056788754,
+        "cstmrNm": "백승준",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0926",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056669239,
+        "cstmrNm": "송한이",
+        "korDayNm": "화",
+        "atendSttusNm": "휴가",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056669239,
+        "cstmrNm": "송한이",
+        "korDayNm": "화",
+        "atendSttusNm": "휴가",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056669239,
+        "cstmrNm": "송한이",
+        "korDayNm": "수",
+        "atendSttusNm": "휴가",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056669239,
+        "cstmrNm": "송한이",
+        "korDayNm": "수",
+        "atendSttusNm": "휴가",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056669239,
+        "cstmrNm": "송한이",
+        "korDayNm": "목",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "1331",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056669239,
+        "cstmrNm": "송한이",
+        "korDayNm": "금",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0937",
+        "levromTime": "1820",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056669239,
+        "cstmrNm": "송한이",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0930",
+        "levromTime": "1821",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056669239,
+        "cstmrNm": "송한이",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0940",
+        "levromTime": "1820",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056669239,
+        "cstmrNm": "송한이",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0924",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056669239,
+        "cstmrNm": "송한이",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0931",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056593178,
+        "cstmrNm": "신지섭",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0916",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056593178,
+        "cstmrNm": "신지섭",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0923",
+        "levromTime": "1821",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056593178,
+        "cstmrNm": "신지섭",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0917",
+        "levromTime": "1821",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056593178,
+        "cstmrNm": "신지섭",
+        "korDayNm": "금",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0912",
+        "levromTime": "1321",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056593178,
+        "cstmrNm": "신지섭",
+        "korDayNm": "목",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0921",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056593178,
+        "cstmrNm": "신지섭",
+        "korDayNm": "수",
+        "atendSttusNm": "질병/입원",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056593178,
+        "cstmrNm": "신지섭",
+        "korDayNm": "수",
+        "atendSttusNm": "질병/입원",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056593178,
+        "cstmrNm": "신지섭",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0918",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056593178,
+        "cstmrNm": "신지섭",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0922",
+        "levromTime": "1821",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056686612,
+        "cstmrNm": "연제찬",
+        "korDayNm": "화",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0930",
+        "levromTime": "1335",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056686612,
+        "cstmrNm": "연제찬",
+        "korDayNm": "화",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0930",
+        "levromTime": "1335",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056686612,
+        "cstmrNm": "연제찬",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0924",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056686612,
+        "cstmrNm": "연제찬",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0925",
+        "levromTime": "1821",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056686612,
+        "cstmrNm": "연제찬",
+        "korDayNm": "금",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056686612,
+        "cstmrNm": "연제찬",
+        "korDayNm": "목",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0923",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056686612,
+        "cstmrNm": "연제찬",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0923",
+        "levromTime": "1821",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056686612,
+        "cstmrNm": "연제찬",
+        "korDayNm": "화",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0921",
+        "levromTime": "0000",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056686612,
+        "cstmrNm": "연제찬",
+        "korDayNm": "월",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0921",
+        "levromTime": "1323",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056593683,
+        "cstmrNm": "오석민",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0937",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056593683,
+        "cstmrNm": "오석민",
+        "korDayNm": "화",
+        "atendSttusNm": "휴가",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056593683,
+        "cstmrNm": "오석민",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0938",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056593683,
+        "cstmrNm": "오석민",
+        "korDayNm": "화",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "1402",
+        "levromTime": "1821",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056593683,
+        "cstmrNm": "오석민",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0938",
+        "levromTime": "1821",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056593683,
+        "cstmrNm": "오석민",
+        "korDayNm": "목",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "1227",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056593683,
+        "cstmrNm": "오석민",
+        "korDayNm": "금",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0938",
+        "levromTime": "1441",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056593683,
+        "cstmrNm": "오석민",
+        "korDayNm": "월",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "1400",
+        "levromTime": "1821",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056641940,
+        "cstmrNm": "윤지석",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056641940,
+        "cstmrNm": "윤지석",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0921",
+        "levromTime": "1821",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056641940,
+        "cstmrNm": "윤지석",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0921",
+        "levromTime": "1820",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056641940,
+        "cstmrNm": "윤지석",
+        "korDayNm": "목",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0921",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056641940,
+        "cstmrNm": "윤지석",
+        "korDayNm": "금",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056641940,
+        "cstmrNm": "윤지석",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0922",
+        "levromTime": "1820",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056641940,
+        "cstmrNm": "윤지석",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0922",
+        "levromTime": "1820",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056641940,
+        "cstmrNm": "윤지석",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0924",
+        "levromTime": "1821",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056641669,
+        "cstmrNm": "이시인",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0928",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056641669,
+        "cstmrNm": "이시인",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0925",
+        "levromTime": "1820",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056641669,
+        "cstmrNm": "이시인",
+        "korDayNm": "수",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0924",
+        "levromTime": "1326",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056641669,
+        "cstmrNm": "이시인",
+        "korDayNm": "목",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0924",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056641669,
+        "cstmrNm": "이시인",
+        "korDayNm": "금",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0926",
+        "levromTime": "1820",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056641669,
+        "cstmrNm": "이시인",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0927",
+        "levromTime": "1820",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056641669,
+        "cstmrNm": "이시인",
+        "korDayNm": "화",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0916",
+        "levromTime": "1321",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056641669,
+        "cstmrNm": "이시인",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0932",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056652729,
+        "cstmrNm": "이준영",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0922",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056652729,
+        "cstmrNm": "이준영",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0928",
+        "levromTime": "1823",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056652729,
+        "cstmrNm": "이준영",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0930",
+        "levromTime": "1821",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056652729,
+        "cstmrNm": "이준영",
+        "korDayNm": "목",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "1112",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056652729,
+        "cstmrNm": "이준영",
+        "korDayNm": "금",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0932",
+        "levromTime": "1821",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056652729,
+        "cstmrNm": "이준영",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0936",
+        "levromTime": "1821",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056652729,
+        "cstmrNm": "이준영",
+        "korDayNm": "화",
+        "atendSttusNm": "휴가",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056652729,
+        "cstmrNm": "이준영",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0926",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056686162,
+        "cstmrNm": "이채원",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0926",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056686162,
+        "cstmrNm": "이채원",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0937",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056686162,
+        "cstmrNm": "이채원",
+        "korDayNm": "화",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0930",
+        "levromTime": "0000",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056686162,
+        "cstmrNm": "이채원",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0930",
+        "levromTime": "1821",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056686162,
+        "cstmrNm": "이채원",
+        "korDayNm": "목",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0932",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056686162,
+        "cstmrNm": "이채원",
+        "korDayNm": "금",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0933",
+        "levromTime": "1433",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056686162,
+        "cstmrNm": "이채원",
+        "korDayNm": "화",
+        "atendSttusNm": "휴가",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056686162,
+        "cstmrNm": "이채원",
+        "korDayNm": "월",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056686162,
+        "cstmrNm": "이채원",
+        "korDayNm": "월",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056686162,
+        "cstmrNm": "이채원",
+        "korDayNm": "월",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056606973,
+        "cstmrNm": "임지응",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0913",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056606973,
+        "cstmrNm": "임지응",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0916",
+        "levromTime": "1821",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056606973,
+        "cstmrNm": "임지응",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056606973,
+        "cstmrNm": "임지응",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0906",
+        "levromTime": "1820",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056606973,
+        "cstmrNm": "임지응",
+        "korDayNm": "월",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056606973,
+        "cstmrNm": "임지응",
+        "korDayNm": "금",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056606973,
+        "cstmrNm": "임지응",
+        "korDayNm": "목",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0916",
+        "levromTime": "1321",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056606973,
+        "cstmrNm": "임지응",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0918",
+        "levromTime": "1820",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056595489,
+        "cstmrNm": "장진원",
+        "korDayNm": "화",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056595489,
+        "cstmrNm": "장진원",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0922",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056595489,
+        "cstmrNm": "장진원",
+        "korDayNm": "화",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0918",
+        "levromTime": "1326",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056595489,
+        "cstmrNm": "장진원",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0918",
+        "levromTime": "1821",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056595489,
+        "cstmrNm": "장진원",
+        "korDayNm": "목",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0918",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056595489,
+        "cstmrNm": "장진원",
+        "korDayNm": "금",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0922",
+        "levromTime": "1820",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056595489,
+        "cstmrNm": "장진원",
+        "korDayNm": "월",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "1231",
+        "levromTime": "1821",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056595489,
+        "cstmrNm": "장진원",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0919",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056426353,
+        "cstmrNm": "정재호",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0913",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056426353,
+        "cstmrNm": "정재호",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0935",
+        "levromTime": "1820",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056426353,
+        "cstmrNm": "정재호",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0922",
+        "levromTime": "1820",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056426353,
+        "cstmrNm": "정재호",
+        "korDayNm": "금",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056426353,
+        "cstmrNm": "정재호",
+        "korDayNm": "목",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0935",
+        "levromTime": "1438",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056426353,
+        "cstmrNm": "정재호",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0917",
+        "levromTime": "1820",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056426353,
+        "cstmrNm": "정재호",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0921",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056426353,
+        "cstmrNm": "정재호",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0917",
+        "levromTime": "1821",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056765316,
+        "cstmrNm": "최지영",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0933",
+        "levromTime": "1820",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056765316,
+        "cstmrNm": "최지영",
+        "korDayNm": "화",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0935",
+        "levromTime": "1435",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056765316,
+        "cstmrNm": "최지영",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0935",
+        "levromTime": "0000",
+        "atendDe": "20250212"
+      },
+      {
+        "trneeCstmrId": 100056765316,
+        "cstmrNm": "최지영",
+        "korDayNm": "화",
+        "atendSttusCd": "03",
+        "atendSttusNm": "지각",
+        "lpsilTime": "1035",
+        "levromTime": "1821",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056765316,
+        "cstmrNm": "최지영",
+        "korDayNm": "월",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056765316,
+        "cstmrNm": "최지영",
+        "korDayNm": "금",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056765316,
+        "cstmrNm": "최지영",
+        "korDayNm": "목",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0936",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056765316,
+        "cstmrNm": "최지영",
+        "korDayNm": "수",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0934",
+        "levromTime": "1820",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056843215,
+        "cstmrNm": "황보현준",
+        "korDayNm": "월",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0928",
+        "levromTime": "1821",
+        "atendDe": "20250203"
+      },
+      {
+        "trneeCstmrId": 100056843215,
+        "cstmrNm": "황보현준",
+        "korDayNm": "화",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250211"
+      },
+      {
+        "trneeCstmrId": 100056843215,
+        "cstmrNm": "황보현준",
+        "korDayNm": "월",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "lpsilTime": "0000",
+        "levromTime": "0000",
+        "atendDe": "20250210"
+      },
+      {
+        "trneeCstmrId": 100056843215,
+        "cstmrNm": "황보현준",
+        "korDayNm": "금",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0935",
+        "levromTime": "1820",
+        "atendDe": "20250207"
+      },
+      {
+        "trneeCstmrId": 100056843215,
+        "cstmrNm": "황보현준",
+        "korDayNm": "목",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0932",
+        "levromTime": "1820",
+        "atendDe": "20250206"
+      },
+      {
+        "trneeCstmrId": 100056843215,
+        "cstmrNm": "황보현준",
+        "korDayNm": "수",
+        "atendSttusCd": "05",
+        "atendSttusNm": "조퇴",
+        "lpsilTime": "0928",
+        "levromTime": "1331",
+        "atendDe": "20250205"
+      },
+      {
+        "trneeCstmrId": 100056843215,
+        "cstmrNm": "황보현준",
+        "korDayNm": "화",
+        "atendSttusCd": "01",
+        "atendSttusNm": "출석",
+        "lpsilTime": "0928",
+        "levromTime": "1821",
+        "atendDe": "20250204"
+      },
+      {
+        "trneeCstmrId": 100056843215,
+        "cstmrNm": "황보현준",
+        "korDayNm": "수",
+        "atendSttusCd": "02",
+        "atendSttusNm": "결석",
+        "atendDe": "20250212"
+      }
+    ]
+  }
+}
