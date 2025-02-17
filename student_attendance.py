@@ -217,9 +217,18 @@ class Use_API:
 
             update_status(f"총 과정 수 {len(data_set)}개를 저장하고 있습니다...")
 
+            not_person_data = [
+                person for person in data_set if person["강사"] == "해당 정보 없음"
+            ]
+            person_data = [
+                person for person in data_set if person["강사"] != "해당 정보 없음"
+            ]
+
             # json 파일로 저장
-            with open("persons.json", "w", encoding="utf-8") as f:
-                json.dump(data_set, f, ensure_ascii=False, indent=4)
+            with open("./json/teachers_data.json", "w", encoding="utf-8") as f:
+                json.dump(person_data, f, ensure_ascii=False, indent=4)
+            with open("./json/not_teachers_data.json", "w", encoding="utf-8") as f:
+                json.dump(not_person_data, f, ensure_ascii=False, indent=4)
 
 
 async def main():
