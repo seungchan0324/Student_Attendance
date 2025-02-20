@@ -81,6 +81,26 @@ def extract_attendance(procedure):
     st.dataframe(st_data)
 
 
+def extract_today_attendance(procedure):
+    url = "https://hrd.work24.go.kr/jsp/HRDP/HRDPO00/HRDPOA60/HRDPOA60_4.jsp"
+    params = {
+        "authKey": "cZWIhYgWESwlwL7TnsVukhU6jbMN9xDl",
+        "returnType": "XML",
+        "srchTrprId": procedure["과정ID"],
+        "srchTrprDegr": procedure["회차"],
+        "outType": "2",
+        "srchTorgId": "student_detail",
+        "atendMo": "",
+    }
+    headers = {
+        "Referer": url,
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    }
+    with requests.get(url, params=params, headers=headers) as response:
+        response_str = response.text
+    root = ET.fromstring(response_str)
+
+
 if st.session_state.key == True:
     teachers = deduplication_procedure(teachers_data)
     with st.sidebar:
@@ -96,6 +116,7 @@ if st.session_state.key == True:
     else:
         # 출석 api 가져온거 표시
         extract_attendance(st.session_state.selected_teacher)
+        extract_today_attendance(st.session_state.selected_teacher)
         pass
 
 else:

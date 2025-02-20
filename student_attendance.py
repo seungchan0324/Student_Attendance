@@ -1,8 +1,4 @@
-import requests
 import json
-import collections
-import csv
-import re
 import time
 import aiohttp
 import asyncio
